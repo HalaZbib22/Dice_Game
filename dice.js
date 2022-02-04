@@ -23,11 +23,3 @@ if (
     header.innerHTML = "Draw!";
   }
 }
-
-// if(randomP1 > randomP2){
-//     header.innerHTML += "Player 1 wins!";
-// }else if(randomP1 < randomP2){
-//     header.innerHTML += "<br/>Player 2 wins!";
-// }else{
-//     header.innerHTML += "<br/>Draw!";
-// }
