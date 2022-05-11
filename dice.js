@@ -1,3 +1,4 @@
+// trying something
 if (
   window.performance.navigation.type ==
   window.performance.navigation.TYPE_RELOAD
